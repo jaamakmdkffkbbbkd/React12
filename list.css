@@ -1,0 +1,41 @@
+.list{
+
+    background-color:aliceblue;
+    width: 600px;
+    height: 600px;
+    margin-left:500px;
+    margin-top:100px;
+    flex-wrap:wrap;
+
+    
+}
+h2{
+    color:white;
+   padding-top: 30px;
+   
+}
+.container{
+position: relative;
+display:inline-block;
+
+}
+.input{
+    border-color:azure;
+    border-radius: 0cm;
+    margin-top: 25px;
+    margin-left: 10px;
+    height:30px;
+    width: 400px;
+    position:relative;
+    background-color: transparent;
+    color:aliceblue;
+}
+button{
+
+    background-color: blueviolet;
+   
+    color:white;
+    padding: 9px;
+   
+    
+}
